@@ -2,3 +2,4 @@
 Typescript with React (Next.js) + Node.js (Express)
 Component Ui : Material UI
 Database : MongoDB (Mongoose ODM)
+With my partner : Dechanuphap Anuwan
